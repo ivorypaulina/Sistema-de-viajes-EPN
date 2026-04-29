@@ -1,2 +1,2 @@
-# Sistema-de-viajes-EPN
-Proyecto de tesis de Diseño de Interfaces
+# sistema-viajes-epn
+Proyecto de Diseño de Interfaces - EPN
